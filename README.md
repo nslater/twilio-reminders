@@ -1,2 +1,2 @@
 # twilio-qotd
-Send an random reminder via SMS with Twilio
+Send random reminders via SMS with Twilio
