@@ -1,2 +1,2 @@
 # twilio-qotd
-Send an random Quote of the Day via SMS with Twilio
+Send an random reminder via SMS with Twilio
